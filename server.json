@@ -1,0 +1,94 @@
+{
+  "continents": [
+    {
+      "id": 1,
+      "slug": "america-do-norte",
+      "title": "América do Norte",
+      "subtitle": "",
+      "description": "A América do Norte é um subcontinente que compreende a porção setentrional do continente americano",
+      "image": "images/joss-woodhead-3wFRlwS91yk-unsplash.jpg"
+    },
+    {
+      "id": 2,
+      "slug": "america-do-sul",
+      "title": "América do Sul",
+      "subtitle": "",
+      "description": "A América do Sul é um continente que compreende a porção meridional da América. Também é considerada um subcontinente do continente americano. A sua extensão é de 17 819 100 km², abrangendo 12% da superfície terrestre e 6% da população mundial",
+      "image": "images/64a5ba2142d081c49ed2ecccb92bc064.jpeg"
+    },
+    {
+      "id": 3,
+      "slug": "asia",
+      "title": "Ásia",
+      "subtitle": "",
+      "description": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial",
+      "image": "/images/pedro-lastra-5g8dJvtYRYA-unsplash.jpg"
+    },
+    {
+      "id": 4,
+      "slug": "africa",
+      "title": "África",
+      "subtitle": "",
+      "description": "A África é o terceiro continente mais extenso com cerca de 30 milhões de quilômetros quadrados, cobrindo 20,3% da área total da terra firme do planeta. É o segundo continente mais populoso da Terra com cerca de um bilhão de pessoas, representando cerca de um sétimo da população mundial, e 54 países independentes",
+      "image": "images/joss-woodhead-3wFRlwS91yk-unsplash.jpg"
+    },
+    {
+      "id": 5,
+      "slug": "europa",
+      "title": "Europa",
+      "subtitle": "O continente mais antigo.",
+      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "image": "images/image.png"
+    },
+    {
+      "id": 6,
+      "slug": "oceania",
+      "title": "Oceania",
+      "subtitle": "",
+      "description": "Oceania ou Oceânia é uma região geográfica composta por vários grupos de ilhas do oceano Pacífico. O termo Oceania foi criado em 1831 pelo explorador francês Dumont d'Urville",
+      "image": "/images/pedro-lastra-5g8dJvtYRYA-unsplash.jpg"
+    }
+  ],
+  "cidades": [
+    {
+      "id": 1,
+      "cidade": "Londres",
+      "pais": "Reino Unido",
+      "image": "images/continents/londres.png",
+      "imageBandeira": "images/continents/reinounido.png",
+      "continentSlug": "europa"
+    },
+    {
+      "id": 2,
+      "cidade": "Paris",
+      "pais": "França",
+      "image": "images/continents/paris.png",
+      "imageBandeira": "images/continents/franca.png",
+      "continentSlug": "europa"
+    },
+    {
+      "id": 3,
+      "cidade": "Roma",
+      "pais": "Itália",
+      "image": "images/continents/roma.png",
+      "imageBandeira": "images/continents/italia.png",
+      "continentSlug": "europa"
+    },
+    {
+      "id": 4,
+      "cidade": "Praga",
+      "pais": "República Tcheca",
+      "image": "images/continents/praga.png",
+      "imageBandeira": "images/continents/republicatcheca.png",
+      "continentSlug": "europa"
+    },
+    {
+      "id": 5,
+      "cidade": "Amsterdã",
+      "pais": "Holanda",
+      "image": "images/continents/amsterda.png",
+      "imageBandeira": "images/continents/holanda.png",
+      "continentSlug": "europa"
+    }
+  ]
+}

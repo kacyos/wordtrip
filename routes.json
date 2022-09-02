@@ -1,0 +1,3 @@
+{
+"/continents/:slug/cidades": "/cidades?continentSlug=:slug"
+}
